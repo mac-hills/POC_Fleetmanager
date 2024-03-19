@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162890007101",
+    "project_id": "fleetmanager01-d8407",
+    "storage_bucket": "fleetmanager01-d8407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162890007101:android:0fbe548beb9919f9cc2054",
+        "android_client_info": {
+          "package_name": "be.pxl.fleetmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-3E0UxdJyYcuEAK7ka_TouxIyYb8YAz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
